@@ -22,7 +22,7 @@ Explica en pocas palabras qué cambiaste.
 
 Si arregla un issue, poné: Closes #número.
 
-##Commits
+## Commits
 Que sean claros y cortos.
 
 Ejemplos:
@@ -35,20 +35,20 @@ arreglado
 
 cosas varias
 
-##Revisiones
+## Revisiones
 Todos los cambios se revisan en equipo antes de entrar a dev.
 
 Si ves algo que mejorar, comentá con buena onda
 
-##Issues
+## Issues
 Usamos Issues para organizar tareas y bugs.
 
 Antes de abrir uno nuevo, fijate si ya existe.
 
-##Resumen rápido
+## Resumen rápido
 Rama por cada cosa que hagas.
 
-##Commits claros.
+## Commits claros.
 
 PRs a dev, no a main.
 
