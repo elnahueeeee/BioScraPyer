@@ -1,12 +1,27 @@
 # BioScrapPyer
-scrapper that tells you about the climate change
+Scraper that tells you about climate change
 
-## instructions of use:
-- the version is python 3.11.0 for this proyect
-- open main.py and install the dependencies with pip install requierements.txt
-- open the notebook in colab
-- insert an ngrok token
-- execute the notebook
-- when its ready copy the ngrok url in colab
-- paste the url in main.py
-- execute main
+## Requisitos
+- Python **3.11.0**
+- Dependencias del archivo `requirements.txt`
+
+## Instrucciones de uso
+- Instalar dependencias:
+   ```bash
+   pip install -r requirements.txt
+- Abrir main.py.
+
+- Abrir el notebook en Colab.
+
+- Insertar tu ngrok token.
+
+- Ejecutar el notebook.
+
+- Copiar la URL de ngrok desde Colab.
+
+- Pegar la URL en main.py.
+
+- Ejecutar main.py.
+
+## Contribución
+Si querés colaborar, mirá el archivo CONTRIBUTING.md.
