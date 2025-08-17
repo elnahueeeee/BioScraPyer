@@ -4,7 +4,7 @@ Estas son unas reglas simples para que trabajemos sin pisarnos:
 
 ---
 
-## 🚀 Flujo de trabajo
+## Flujo de trabajo
 1. **No trabajes directo en `main`.**  
    Usamos ramas:
    - `main` → estable  
