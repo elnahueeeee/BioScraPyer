@@ -12,10 +12,11 @@ Estas son unas reglas simples para que trabajemos sin pisarnos:
   - `feature/lo-que-estés-haciendo` → tu rama
 
 ### Para empezar algo nuevo:
+- 
    ```bash
-   git checkout dev
-   git pull
-   git checkout -b feature/nombre-tarea
+  git checkout dev
+  git pull
+  git checkout -b feature/nombre-tarea
 
 Cuando termines, hacé un Pull Request hacia dev.
 
