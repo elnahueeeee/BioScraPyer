@@ -1,0 +1,11 @@
+# Entornos virtuales de Python
+venv/
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Node / React
+node_modules/
+build/
