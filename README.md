@@ -1,5 +1,5 @@
 # BioScrapPyer
-Scraper that tells you about climate change
+BioScrapPyer es un web scraper que toma noticias acerca del cambio climatico y las resume con una IA alojada en google colab, usa React para la UI
 
 ## Requisitos
 - Python **3.11.0**
