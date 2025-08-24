@@ -9,6 +9,9 @@ Scraper that tells you about climate change
 - Instalar dependencias:
    ```bash
    pip install -r requirements.txt
+   cd noticias-app
+   npm install
+
 - Abrir main.py.
 
 - Abrir el notebook en Colab.
