@@ -25,6 +25,7 @@ BioScrapPyer es un web scraper que toma noticias acerca del cambio climatico y l
 - Pegar la URL en main.py.
 
 - Ejecutar start. (la extencion .bat en windows y .sh en linux y mac)
+- Si no funciona en linux usar chmod +x start.sh e intentar nuevamente
 
 ## Contribución
 Si querés colaborar, mirá el archivo CONTRIBUTING.md.
